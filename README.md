@@ -2,7 +2,7 @@
 # 🌿 Green Den
 
 Green Den is a modern, responsive plant & greenery-themed website built using **Tailwind CSS**.  
-The project focuses on clean UI, minimal design, and nature-inspired aesthetics, making it perfect for showcasing indoor plants, eco-friendly products, or green living concepts.
+The project focuses minimal design, and nature-inspired aesthetics, making it perfect for showcasing indoor plants, eco-friendly products, or green living concepts.
 
 ---
 
